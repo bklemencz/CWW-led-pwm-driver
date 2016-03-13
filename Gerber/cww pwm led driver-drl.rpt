@@ -1,0 +1,24 @@
+Drill report for E:\Project\KiCad\CWW led pwm driver\cww pwm led driver.kicad_pcb
+Created on 3/13/2016 5:29:11 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'E:cww pwm led driver.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.70mm  0.028"  (4 holes)
+    T2  1.02mm  0.040"  (6 holes)
+    T3  3.50mm  0.138"  (3 holes)
+
+    Total plated holes count 13
+
+
+Drill file 'E:cww pwm led driver-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
